@@ -1,19 +1,19 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Pratik Jain</h1>
+<h1 align="center">Hi 👋‹, I'm Pratik Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikj9785&label=Profile%20views&color=0e75b6&style=flat" alt="pratikj9785" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikj9785" alt="pratikj9785" /></a> </p>
 
-- ðŸŒ± Iâ€™m currently learning **DSA, Nextjs, Penetration Testing.**
+- 🌱 I’m currently learning **DSA, Nextjs, Penetration Testing.**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/pratikj9785](https://github.com/pratikj9785)
+- 👨‍💻 All of my projects are available at [https://github.com/pratikj9785](https://github.com/pratikj9785)
 
-- ðŸ’¬ Ask me about **DSA, Ethical Hacking**
+- 💬 Ask me about **DSA, Ethical Hacking**
 
-- ðŸ“« How to reach me **pratikj8690@gmail.com**
+- 📫 How to reach me **pratikj8690@gmail.com**
 
-- ðŸ“„ Know about my experiences [https://drive.google.com/file/d/1szuVVRVfrrco0QEy8-tiCbAhjPjpgTtT/view?usp=drivesdk](https://drive.google.com/file/d/1szuVVRVfrrco0QEy8-tiCbAhjPjpgTtT/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1szuVVRVfrrco0QEy8-tiCbAhjPjpgTtT/view?usp=drivesdk](https://drive.google.com/file/d/1szuVVRVfrrco0QEy8-tiCbAhjPjpgTtT/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
