@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikj9785&label=Profile%20views&color=0e75b6&style=flat" alt="pratikj9785" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikj9785" alt="pratikj9785" /></a> </p>
+<img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
 
 - 🌱 I’m currently learning **DSA, Nextjs, Penetration Testing.**
 
