@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA, Nextjs, Penetration Testing.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pratikj9785](https://github.com/pratikj9785)
+- 👨‍💻 All of my projects are available at (https://github.com/pratikj9785)
 
 - 💬 Ask me about **DSA, Ethical Hacking**
 
